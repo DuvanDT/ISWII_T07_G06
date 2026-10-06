@@ -2,7 +2,7 @@
 **Universidad del Cauca - FIET**  
 **Laboratorio de Ingeniería del Software II (2-2026)**  
 **Proyecto:** Gestión del Banco de Preguntas  
-**INtegrantes:** Duvan Alexis Hoyos & Juan José Hurtado
+**Integrantes:** Duvan Alexis Hoyos & Juan José Hurtado
 
 ---
 
